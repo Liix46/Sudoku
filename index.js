@@ -59,8 +59,8 @@
     return result;
  }
 
-//  let result = validSolution(sudoku);
-//  console.log(result);
+ let result = validSolution(sudoku);
+ console.log(result);
 
- let result = validSolution(sudoku2);
+ result = validSolution(sudoku2);
  console.log(result);
